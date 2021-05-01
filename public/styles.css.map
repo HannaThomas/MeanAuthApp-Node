@@ -1,0 +1,1 @@
+{"version":3,"sources":["./styles.scss"],"names":[],"mappings":"AAAA;AAEA;EACC;EACA;AAAD,C","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\n.router-link-active {\n\tcolor:#008000;\n\tfont-weight: bold;\n}"],"sourceRoot":"webpack:///"}
